@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # blogsApp
 owner blogs app
 ```
@@ -33,4 +32,4 @@ react-native run-ios
 ```
 
 前提是需要配置好安卓和IOS的环境以及基本参数
->>>>>>> verssion 2.0.0
+version 2.0.0
